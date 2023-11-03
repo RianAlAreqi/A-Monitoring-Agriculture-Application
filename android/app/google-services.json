@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "154704777807",
+    "firebase_url": "https://agri-monitor-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agri-monitor",
+    "storage_bucket": "agri-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154704777807:android:a45cf6a7fdcc431bcd503a",
+        "android_client_info": {
+          "package_name": "com.example.agri_uum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154704777807-8p7g1201rmjfus1jpoe6a0enkllju13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1tzrdrspQ3ZHIpoV4dlFIoevGH39Kc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154704777807-8p7g1201rmjfus1jpoe6a0enkllju13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154704777807:android:bca1c6d3dc0ce95fcd503a",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154704777807-8p7g1201rmjfus1jpoe6a0enkllju13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1tzrdrspQ3ZHIpoV4dlFIoevGH39Kc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154704777807-8p7g1201rmjfus1jpoe6a0enkllju13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
